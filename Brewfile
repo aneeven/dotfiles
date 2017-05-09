@@ -13,6 +13,8 @@ brew 'rbenv'
 brew 'unrar'
 brew 'wget'
 brew 'yarn'
+brew 'git-flow'
+brew 'rsync'
 
 cask 'docker'
 cask 'atom'
